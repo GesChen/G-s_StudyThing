@@ -1,4 +1,5 @@
 ## Todo:
+ - [ ] set randomizer (create duplicate of set snd shuffle after iteration?)
  - [ ] Settings for different features
    - [ ] colors
    - [ ] audio
