@@ -3,6 +3,7 @@
    - [ ] colors
    - [ ] audio
    - [ ] overall speed (animations, transitions, etc)
+ - [ ] smooth animations and transitions
 
 ## In Progress:
  - [ ] typing mode
