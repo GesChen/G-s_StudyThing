@@ -6,16 +6,17 @@
  - [ ] smooth animations and transitions
 
 ## In Progress:
- - [ ] typing mode
-   - [ ] smart grader, uses closeness and threshold settings to compensate for typing errors
-   - [ ] threshold where grader will confirm if the intended answer was the correct one, below both thresholds the answer would be incorrect
-   
+ - [ ] fix importing from clipboard (multine defs) and have some way to manually or automatically configure multiline defs 
+
 ## Done:
  - [ ] Main functionality
  - [ ] mathing/selections mode
  - [ ] set importing
  - [ ] set randomizer (create duplicate of set snd shuffle after iteration?)
  - [ ] Automatic switching after correct answer
+ - [ ] typing mode
+   - [ ] smart grader, uses closeness and threshold settings to compensate for typing errors
+   - [ ] threshold where grader will confirm if the intended answer was the correct one, below both thresholds the answer would be incorrect
 
 
 ### Ideas:
@@ -25,3 +26,6 @@
  - set library with lots of autoimported sets
  - custom set maker
  - custom set export and importing
+
+### On hold:
+ - importing from file - doesn't work because the entire set isn't where i thought, might try again later
