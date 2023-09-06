@@ -1,12 +1,14 @@
-## Todo:
+## Todo: 
+ - [ ] round counter
  - [ ] Settings for different features
    - [ ] colors
    - [ ] audio
    - [ ] overall speed (animations, transitions, etc)
  - [ ] smooth animations and transitions
+ - [ ] gradient images (somehow)
 
 ## In Progress:
- - [ ] fix importing from clipboard (multine defs) and have some way to manually or automatically configure multiline defs 
+ - [ ] fix importing from clipboard (multine defs) and have some way to manually or automatically configure multiline defs
 
 ## Done:
  - [ ] Main functionality
