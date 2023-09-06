@@ -6,6 +6,7 @@
    - [ ] overall speed (animations, transitions, etc)
  - [ ] smooth animations and transitions
  - [ ] gradient images (somehow)
+ - [ ] fix main menu set preview scroll (custom system?)
 
 ## In Progress:
  - [ ] fix importing from clipboard (multine defs) and have some way to manually or automatically configure multiline defs
@@ -19,7 +20,6 @@
  - [ ] typing mode
    - [ ] smart grader, uses closeness and threshold settings to compensate for typing errors
    - [ ] threshold where grader will confirm if the intended answer was the correct one, below both thresholds the answer would be incorrect
-
 
 ### Ideas:
  - automatic importing given URL (403 issues ahead)
