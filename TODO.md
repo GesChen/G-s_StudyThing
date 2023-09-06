@@ -28,6 +28,8 @@
  - set library with lots of autoimported sets
  - custom set maker
  - custom set export and importing
+ - use resources folder to allow for people to add their own sets with pull reqs, merge into resources folder and not compiled with build, use ``resources.load`` to access
+   - [https://stackoverflow.com/questions/66731867/how-to-read-from-an-internal-txt-file-in-unity-c-sharp-webgl]
 
 ### On hold:
  - importing from file - doesn't work because the entire set isn't where i thought, might try again later
