@@ -1,14 +1,6 @@
 # hyst
-**-- [REDACTED]'s Study Thing --**
- 
-Because Quizlet Plus was too expensive
+*"Because Quizlet Plus was too expensive"*
 
-note to self: 
-add following in style text of html to remove outline and set background color
+A replacement for Quizlet. For instructions on how to use, click the ? button on the main page (bottom right). 
 
-*:focus {
-    outline: none;
-}
-body {
-     background-color: #3D3F42;
-}
+The main page is hosted at [https://geschen.github.io/hyst/]
